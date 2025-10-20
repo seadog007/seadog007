@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seadog007&label=Profile%20views&color=0e75b6&style=flat" alt="seadog007" /> </p>
 
-- 🔭 I’m currently working and spend most of the funding on [STUIX](https://stuix.io/)
+- 🔭 Mainly focused on networking related projects e.g.
+  - Spending most of the funding on [STUIX](https://stuix.io/)
+  - Developing [Tawian Submarine Cable Map](https://smc.peering.tw)
+  - Maintenancing APAC Fedora Tier 1 Mirror
+  - Maintenancing Ubuntu TW Country Mirror
 
 - 💬 Ask me about **Anything**
 
