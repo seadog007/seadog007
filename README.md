@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seadog007&label=Profile%20views&color=0e75b6&style=flat" alt="seadog007" /> </p>
 
 - 🔭 Mainly focused on networking related projects e.g.
-  - Running AS18041 as Homelab, the biggest one in Asia region with a high-bandwidth backbone, DWDM infrastructure, high peering capacity (200~300 Gbps Daily Peak, 700+ Gbps Peering Capacity)
+  - Running AS18041 as Homelab, the biggest one in Asia region with a high-bandwidth backbone, DWDM infrastructure, high peering capacity (300~400 Gbps Daily Peak, 700+ Gbps Peering Capacity)
   - Spending most of the funding on [STUIX](https://stuix.io/), the largest community Internet Exchange in APAC Region.
   - Developing [Tawian Submarine Cable Map](https://smc.peering.tw)
   - Maintaining APAC Fedora Tier 1 Mirror
